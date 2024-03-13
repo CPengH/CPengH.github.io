@@ -2,24 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Embedded Software Engineer | Automation | Emulation
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <div style="text-align: center;">
+      <p> College Station, Texas </p>
+      <p> United States </p>
+    </div>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+---
+#### About me:
+I'm passionate about developing interdisciplinary skills across software engineering, firmware engineering, emulation, and automation.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My expertise spans programming languages such as Python and C++, as well as RTOS architecture, ST microcontroller development, and emulation and automation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently working as an embedded software engineer involved in developing STM32-based microcontrollers for battery testing systems.
+
+In my previous roles, I had a co-op opportunity with Solidigm (SK hynix) as a software engineer, designing firmware emulators for multiple cutting-edge SSD controllers. I also have experience working in the EV industry in a BMS team, designing the first electric car model in Taiwan.
+
+<!-- As a co-founder of the startup BuggiPro, I designed an automated production line that drastically reduced the cost of incubating beneficial insects. -->

@@ -1,36 +1,54 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Allen Huang",
+    "label": "Embedded Software Engineer | Firmware Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Arbin Instruments",
+      "position": "Firmware Engineer",
+      "url": "",
+      "startDate": "2023-02",
+      "endDate": "",
+      "summary": "",
+      "highlights": [" Contributed to the development of RTOS-based firmware in battery testing system using STM32 microcontrollers"]
+    },
+    {
+      "name": "Solidigm",
+      "position": "Software Engineer Intern",
+      "url": "",
+      "startDate": "2022-06",
+      "endDate": "2022-12",
+      "summary": "",
+      "highlights": [" Developed firmware emulation software capable of simulating multiple cutting-edge SSD controllers. Integrated the firmware algorithm into the model and analyzed performance bottlenecks"]
+    },
+    {
+      "name": "HAITEC - Yulon Nissan Motor",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2018-04",
+      "endDate": "2019-05",
+      "summary": "",
+      "highlights": [" Developed firmware for the Battery Management System (BMS) in electric car models"]
     }
   ],
   "volunteer": [
@@ -46,15 +64,38 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
+      "institution": "Texas A&M University",
+      "location": "Texas, US",
+      "url": "",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "studyType": "Master's degree",
+      "startDate": "2021",
+      "endDate": "2022",
+      "score": "3.9",
+      "courses": ["Majored in Computer Engineering",
+                  "Graduate Merit Scholarship"]
+    },
+    {
+      "institution": "National Taiwan University",
+      "location": "Taipei, Taiwan",
+      "url": "",
+      "area": "",
+      "studyType": "Master's degree",
+      "startDate": "2015",
+      "endDate": "2017",
+      "score": "",
+      "courses": ["Majored in Bio-Mechatronic Engineering"]
+    },
+    {
+      "institution": "National Taiwan University",
+      "location": "Taipei, Taiwan",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor's degree",
+      "startDate": "2011",
+      "endDate": "2015",
+      "score": "",
+      "courses": ["Majored in Bio-Mechatronic Engineering"]
     }
   ],
   "awards": [
@@ -135,22 +176,33 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Language",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python, C++, C, C#"
+      ]
+    },
+    {
+      "name": "Tool",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        " Git, Github, Keil, JTag, Azure, Jenkins"
+      ]
+    },
+    {
+      "name": "Domain Knowledge",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "RTOS, Object-Oriented Design, Algorithm, Data Structure, SPI, UART, I2C, BMS, CAN"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
