@@ -20,7 +20,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ---
+
 #### About me:
+
 I'm passionate about developing interdisciplinary skills across software engineering, firmware engineering, emulation, and automation.
 
 My expertise spans programming languages such as Python and C++, as well as RTOS architecture, ST microcontroller development, and emulation and automation.

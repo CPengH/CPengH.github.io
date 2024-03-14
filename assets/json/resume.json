@@ -36,17 +36,19 @@
       "name": "Solidigm",
       "position": "Software Engineer Intern",
       "url": "",
-      "startDate": "2022-06",
-      "endDate": "2022-12",
+      "startDate": "2022",
+      "endDate": "2022",
       "summary": "",
-      "highlights": [" Developed firmware emulation software capable of simulating multiple cutting-edge SSD controllers. Integrated the firmware algorithm into the model and analyzed performance bottlenecks"]
+      "highlights": [
+        " Developed firmware emulation software capable of simulating multiple cutting-edge SSD controllers. Integrated the firmware algorithm into the model and analyzed performance bottlenecks"
+      ]
     },
     {
       "name": "HAITEC - Yulon Nissan Motor",
       "position": "Software Engineer",
       "url": "",
-      "startDate": "2018-04",
-      "endDate": "2019-05",
+      "startDate": "2018",
+      "endDate": "2019",
       "summary": "",
       "highlights": [" Developed firmware for the Battery Management System (BMS) in electric car models"]
     }
@@ -72,8 +74,7 @@
       "startDate": "2021",
       "endDate": "2022",
       "score": "3.9",
-      "courses": ["Majored in Computer Engineering",
-                  "Graduate Merit Scholarship"]
+      "courses": ["Majored in Computer Engineering", "Graduate Merit Scholarship"]
     },
     {
       "institution": "National Taiwan University",
@@ -179,36 +180,30 @@
       "name": "Programming Language",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python, C++, C, C#"
-      ]
+      "keywords": ["Python, C++, C, C#"]
     },
     {
       "name": "Tool",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        " Git, Github, Keil, JTag, Azure, Jenkins"
-      ]
+      "keywords": [" Git, Github, Keil, JTag, Azure, Jenkins"]
     },
     {
       "name": "Domain Knowledge",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "RTOS, Object-Oriented Design, Algorithm, Data Structure, SPI, UART, I2C, BMS, CAN"
-      ]
+      "keywords": ["RTOS, Object-Oriented Design, Algorithm, Data Structure, SPI, UART, I2C, BMS, CAN"]
     }
   ],
   "languages": [
     {
-      "language": "Mandarin",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Mandarin",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
