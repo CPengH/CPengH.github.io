@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Allen Huang",
-    "label": "Embedded Software Engineer | Firmware Engineer",
+    "label": "Embedded Software Engineer | Firmware Engineer | Application Engineer",
     "image": "",
     "email": "",
     "phone": "",
@@ -40,7 +40,7 @@
       "endDate": "2022",
       "summary": "",
       "highlights": [
-        " Developed firmware emulation software capable of simulating multiple cutting-edge SSD controllers. Integrated the firmware algorithm into the model and analyzed performance bottlenecks"
+        " Developed firmware modeling software capable of simulating multiple cutting-edge SSD controllers. Integrated the firmware algorithm into the model and analyzed performance bottlenecks"
       ]
     },
     {
@@ -69,34 +69,34 @@
       "institution": "Texas A&M University",
       "location": "Texas, US",
       "url": "",
-      "area": "Software Development",
+      "area": "Computer Engineering",
       "studyType": "Master's degree",
       "startDate": "2021",
       "endDate": "2022",
       "score": "3.9",
-      "courses": ["Majored in Computer Engineering", "Graduate Merit Scholarship"]
+      "courses": ["Graduate Merit Scholarship with 3.9/4.0 GPA"]
     },
     {
       "institution": "National Taiwan University",
       "location": "Taipei, Taiwan",
       "url": "",
-      "area": "",
+      "area": "Mechatronic Engineering",
       "studyType": "Master's degree",
       "startDate": "2015",
       "endDate": "2017",
       "score": "",
-      "courses": ["Majored in Bio-Mechatronic Engineering"]
+      "courses": []
     },
     {
       "institution": "National Taiwan University",
       "location": "Taipei, Taiwan",
       "url": "",
-      "area": "",
+      "area": "Mechatronic Engineering",
       "studyType": "Bachelor's degree",
       "startDate": "2011",
       "endDate": "2015",
       "score": "",
-      "courses": ["Majored in Bio-Mechatronic Engineering"]
+      "courses": []
     }
   ],
   "awards": [
@@ -186,13 +186,13 @@
       "name": "Tool",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [" Git, Github, Keil, JTag, Azure, Jenkins"]
+      "keywords": ["Git, Github, Keil, JTag, Azure, Bitbucket, Jira, Jenkins"]
     },
     {
       "name": "Domain Knowledge",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["RTOS, Object-Oriented Design, Algorithm, Data Structure, SPI, UART, I2C, BMS, CAN"]
+      "keywords": ["SSD, NAND, BMS, RTOS, Firmware, Object-Oriented Programming, Algorithm, Data Structure, SPI, UART, I2C, CAN"]
     }
   ],
   "languages": [

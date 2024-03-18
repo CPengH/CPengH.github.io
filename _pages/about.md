@@ -23,12 +23,12 @@ social: true # includes social icons at the bottom of the page
 
 #### About me:
 
-I'm passionate about developing interdisciplinary skills across software engineering, firmware engineering, emulation, and automation.
+I am deeply passionate about developing interdisciplinary skills across software and firmware engineering, with a keen focus on emulation and automation processes.
 
-My expertise spans programming languages such as Python and C++, as well as RTOS architecture, ST microcontroller development, and emulation and automation.
+My expertise encompasses programming languages such as **Python** and **C++**, **RTOS** architecture, development of ST microcontrollers, alongside proficiency in emulation and automation techniques.
 
-I'm currently working as an embedded software engineer involved in developing STM32-based microcontrollers for battery testing systems.
+Currently, I serve as an embedded software engineer, focusing on the development of STM32-based microcontrollers for advanced battery testing systems.
 
-In my previous roles, I had a co-op opportunity with Solidigm (SK hynix) as a software engineer, designing firmware emulators for multiple cutting-edge SSD controllers. I also have experience working in the EV industry in a BMS team, designing the first electric car model in Taiwan.
+Previously, I had a co-op role at Solidigm (SK hynix) as a software engineer, where I contributed to designing **firmware modeling system** for innovative SSD controllers. My experience also extends to the electric vehicle industry, where I played a pivotal role in a **BMS** team that designed the first electric car model in Taiwan.
 
 <!-- As a co-founder of the startup BuggiPro, I designed an automated production line that drastically reduced the cost of incubating beneficial insects. -->
