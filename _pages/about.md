@@ -37,8 +37,8 @@ My experience includes:
 - Exploring the architectural aspects of porting embedded frameworks (QP/C++) to existing systems.
 
 **Python**:
-- Passionate about solving coding questions on [Leetcode](https://leetcode.com/u/CPeng818/).
-- Familiar with Pandas, NumPy, and Dash for data collection, training, analysis, and visualization.
+- Passionate about solving data structure and algorithm questions on [Leetcode](https://leetcode.com/u/CPeng818/).
+- Familiar with Pandas, NumPy, and [Dash](./assets/img/DashExample.png) for data collection, training, analysis, and visualization.
 - Implementation of machine learning and [deep learning](https://cpengh.github.io/TAMU_CSCE676_FinalProject/) for text identification.
 
 <!-- As a co-founder of the startup BuggiPro, I designed an automated production line that drastically reduced the cost of incubating beneficial insects. -->
