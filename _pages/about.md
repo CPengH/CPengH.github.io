@@ -23,12 +23,22 @@ social: true # includes social icons at the bottom of the page
 
 #### About me:
 
-I am deeply passionate about developing interdisciplinary skills across software and firmware engineering, with a keen focus on emulation and automation processes.
+I am deeply passionate about developing interdisciplinary skills across **software and firmware engineering**, with a keen focus on embedded software development and emulation.
 
-My expertise encompasses programming languages such as **Python** and **C++**, **RTOS** architecture, development of ST microcontrollers, alongside proficiency in emulation and automation techniques.
+My experience includes:
+- Firmware development for **battery testing system**.
+- Firmware modeling for innovative **SSD** controllers.
+- Software developement for **Battery Management System** in EV.
 
-Currently, I serve as an embedded software engineer, focusing on the development of STM32-based microcontrollers for advanced battery testing systems.
+**C/C++**:
+- Familiar with STM32 Microcontrollers, ARM cortex-M processor, RTOS.
+- Bare metal developments of application code and drivers.
+- The [Battery Cell Emulator](https://github.com/CPengH/CellEmulator_PureSW) project aims to be open-sourced, lightweight, and cross-platform.
+- Exploring the architectural aspects of porting embedded frameworks (QP/C++) to existing systems.
 
-Previously, I had a co-op role at Solidigm (SK hynix) as a software engineer, where I contributed to designing **firmware modeling system** for innovative SSD controllers. My experience also extends to the electric vehicle industry, where I played a pivotal role in a **BMS** team that designed the first electric car model in Taiwan.
+**Python**:
+- Passionate about solving coding questions on [Leetcode](https://leetcode.com/u/CPeng818/).
+- Familiar with Pandas, NumPy, and Dash for data collection, training, analysis, and visualization.
+- Implementation of machine learning and [deep learning](https://cpengh.github.io/TAMU_CSCE676_FinalProject/) for text identification.
 
 <!-- As a co-founder of the startup BuggiPro, I designed an automated production line that drastically reduced the cost of incubating beneficial insects. -->
